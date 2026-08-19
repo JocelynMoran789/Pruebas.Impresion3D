@@ -1,4 +1,4 @@
-Claro. Te lo ajusté para que **“Impresiones 3D” tenga cuadros de colores** y el apartado **“Proceso de impresión” quede completamente centrado**, manteniendo el estilo limpio para GitHub.
+
 
 <div align="center">
 
