@@ -1,12 +1,11 @@
 
-
 <div align="center">
 
 # 🖨️ IMPRESIONES 3D
 
 ### 🎨 Diseña · 🖨️ Imprime · 🚀 Crea
 
-**Transforma tus ideas digitales en objetos reales mediante la impresión 3D.**
+**Transforma una idea digital en un objeto físico mediante tecnología 3D.**
 
 </div>
 
@@ -14,61 +13,79 @@
 
 ## 🌟 ¿Qué son las impresiones 3D?
 
-Las **impresiones 3D** son una tecnología que permite convertir un diseño digital en un objeto físico mediante una impresora 3D.
+La **impresión 3D** es una tecnología que permite crear objetos físicos a partir de un modelo digital. La pieza se construye mediante la colocación de **capas sucesivas de material**, hasta obtener el diseño final.
 
-El objeto se construye **capa por capa**, utilizando diferentes materiales y configuraciones según el diseño y el resultado que se desea obtener.
+Esta tecnología permite desarrollar **prototipos, piezas personalizadas, figuras, accesorios y diferentes proyectos creativos**.
 
 <div align="center">
 
-`🎨 DISEÑO` · `📐 PRECISIÓN` · `🖨️ IMPRESIÓN` · `💡 CREATIVIDAD`
+`🎨 DISEÑO`   `📐 PRECISIÓN`   `🖨️ IMPRESIÓN`   `✨ CREATIVIDAD`
 
 </div>
 
 ---
 
-## ⚙️ ¿Cómo funciona?
+## ⚙️ Proceso de impresión
 
-| 💻 **1. Diseño** |   ⚙️ **2. Preparación**   |  🖨️ **3. Impresión**  | ✨ **4. Resultado** |
-| :--------------: | :-----------------------: | :--------------------: | :----------------: |
-|  Crear el modelo | Configurar los parámetros | Fabricar capa por capa |  Obtener la pieza  |
-
----
-
-## 🎯 Características principales
-
-* 🎨 **Personalización:** permite crear diseños adaptados a diferentes necesidades.
-* 📐 **Precisión:** permite fabricar objetos con medidas específicas.
-* 🧩 **Variedad:** se pueden crear piezas, figuras, prototipos y accesorios.
-* 💡 **Creatividad:** permite convertir ideas digitales en objetos físicos.
-* 🛠️ **Prototipado:** facilita realizar pruebas antes de fabricar una pieza definitiva.
+|      💻 **Diseño**      |    ⚙️ **Preparación**   |    🖨️ **Impresión**   |  ✨ **Resultado** |
+| :---------------------: | :---------------------: | :--------------------: | :--------------: |
+| Crear el modelo digital | Configurar la impresora | Fabricar capa por capa | Obtener la pieza |
 
 ---
 
 # 🧪 PRUEBA DE IMPRESIÓN 3D
 
-Durante nuestra actividad realizamos una **prueba de impresión 3D** con el objetivo de conocer de manera práctica el proceso de fabricación de una pieza.
+Durante nuestra práctica realizamos una **prueba de impresión 3D** para conocer de manera directa el funcionamiento de la impresora y observar todo el proceso de fabricación.
 
-Primero se preparó el diseño y posteriormente se configuraron los parámetros necesarios para iniciar la impresión. Durante el proceso pudimos observar cómo la impresora iba formando el objeto **capa por capa** hasta obtener la pieza final.
+La actividad comenzó con la preparación del diseño. Después se configuraron los parámetros necesarios y se inició la impresión. Finalmente, pudimos observar el resultado obtenido y comprobar cómo el diseño digital se convirtió en una pieza física.
 
-### 📸 Evidencias de la prueba
+---
+
+## 📸 Evidencias de nuestra práctica
 
 <div align="center">
 
-### 🖼️ Preparación y proceso
+### 💻 01 · Preparación
 
-<img src="IMAGENES/12.jpg" width="300">
+<img src="IMAGENES/12.jpg" width="260">
 
-<br><br>
+**Preparación del diseño y materiales utilizados.**
 
-### 🖨️ Proceso de impresión
+<br>
 
-<img src="IMAGENES/123.jpg" width="300">
+---
 
-<br><br>
+### 🖨️ 02 · Proceso de impresión
 
-### ✨ Resultado de la impresión
+<img src="IMAGENES/123.jpg" width="260">
 
-<img src="IMAGENES/1234.jpg" width="300">
+**Proceso de fabricación de la pieza mediante impresión 3D.**
+
+<br>
+
+---
+
+### ✨ 03 · Resultado final
+
+<img src="IMAGENES/1234.jpg" width="260">
+
+**Resultado obtenido después de finalizar la impresión.**
+
+</div>
+
+---
+
+## 🎯 Características principales
+
+<div align="center">
+
+|           🎨 **Personalización**           |              📐 **Precisión**              |
+| :----------------------------------------: | :----------------------------------------: |
+| Diseños adaptados a diferentes necesidades | Creación de piezas con medidas específicas |
+
+|              🧩 **Prototipos**              |              💡 **Creatividad**             |
+| :-----------------------------------------: | :-----------------------------------------: |
+| Permite probar diseños antes de fabricarlos | Convierte ideas digitales en objetos reales |
 
 </div>
 
@@ -76,15 +93,19 @@ Primero se preparó el diseño y posteriormente se configuraron los parámetros 
 
 ## 💡 ¿Qué aprendimos?
 
-Con esta práctica aprendimos cómo funciona una **impresora 3D** y cómo un modelo digital puede convertirse en una pieza física.
+Con esta práctica aprendimos los conceptos básicos relacionados con la **impresión 3D**, desde la preparación de un diseño hasta la obtención de una pieza física.
 
-También comprendimos la importancia de preparar correctamente el diseño y configurar la impresora antes de comenzar el proceso.
+También comprendimos la importancia de configurar correctamente la impresora y supervisar el proceso para conseguir un buen resultado.
+
+---
 
 <div align="center">
 
-### 🚀 CONCLUSIÓN
+## 🚀 CONCLUSIÓN
 
-**La impresión 3D combina tecnología, diseño y creatividad para transformar ideas digitales en objetos reales.** 🖨️✨
+**La impresión 3D nos permite combinar tecnología, diseño y creatividad para convertir nuestras ideas en objetos reales.**
+
+### 🖨️✨ ¡Diseña, imprime y crea!
 
 </div>
 
