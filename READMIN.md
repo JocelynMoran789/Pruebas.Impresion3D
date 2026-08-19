@@ -1,3 +1,4 @@
+Claro. Te lo ajusté para que **“Impresiones 3D” tenga cuadros de colores** y el apartado **“Proceso de impresión” quede completamente centrado**, manteniendo el estilo limpio para GitHub.
 
 <div align="center">
 
@@ -6,6 +7,12 @@
 ### 🎨 Diseña · 🖨️ Imprime · 🚀 Crea
 
 **Transforma una idea digital en un objeto físico mediante tecnología 3D.**
+
+<br>
+
+|    🟦 **DISEÑO**    |  🟩 **PRECISIÓN**  |    🟨 **CREATIVIDAD**    | 🟥 **IMPRESIÓN 3D** |
+| :-----------------: | :----------------: | :----------------------: | :-----------------: |
+| 💻 Modela tus ideas | 📐 Medidas exactas | 💡 Crea nuevos proyectos | 🖨️ Fabrica objetos |
 
 </div>
 
@@ -17,19 +24,23 @@ La **impresión 3D** es una tecnología que permite crear objetos físicos a par
 
 Esta tecnología permite desarrollar **prototipos, piezas personalizadas, figuras, accesorios y diferentes proyectos creativos**.
 
-<div align="center">
-
-`🎨 DISEÑO`   `📐 PRECISIÓN`   `🖨️ IMPRESIÓN`   `✨ CREATIVIDAD`
-
-</div>
-
 ---
 
-## ⚙️ Proceso de impresión
+<div align="center">
 
-|      💻 **Diseño**      |    ⚙️ **Preparación**   |    🖨️ **Impresión**   |  ✨ **Resultado** |
-| :---------------------: | :---------------------: | :--------------------: | :--------------: |
-| Crear el modelo digital | Configurar la impresora | Fabricar capa por capa | Obtener la pieza |
+# ⚙️ PROCESO DE IMPRESIÓN 3D
+
+<br>
+
+|     🟦 **01 · DISEÑO**     |    🟩 **02 · PREPARACIÓN**   |
+| :------------------------: | :--------------------------: |
+| 💻 Crear el modelo digital | ⚙️ Configurar los parámetros |
+
+|    🟨 **03 · IMPRESIÓN**   |   🟥 **04 · RESULTADO**  |
+| :------------------------: | :----------------------: |
+| 🖨️ Fabricar capa por capa | ✨ Obtener la pieza final |
+
+</div>
 
 ---
 
@@ -41,51 +52,16 @@ La actividad comenzó con la preparación del diseño. Después se configuraron 
 
 ---
 
-## 📸 Evidencias de nuestra práctica
-
 <div align="center">
 
-### 💻 01 · Preparación
-
-<img src="IMAGENES/12.jpg" width="260">
-
-**Preparación del diseño y materiales utilizados.**
+# 📸 EVIDENCIAS DE NUESTRA PRÁCTICA
 
 <br>
 
----
-
-### 🖨️ 02 · Proceso de impresión
-
-<img src="IMAGENES/123.jpg" width="260">
-
-**Proceso de fabricación de la pieza mediante impresión 3D.**
-
-<br>
-
----
-
-### ✨ 03 · Resultado final
-
-<img src="IMAGENES/1234.jpg" width="260">
-
-**Resultado obtenido después de finalizar la impresión.**
-
-</div>
-
----
-
-## 🎯 Características principales
-
-<div align="center">
-
-|           🎨 **Personalización**           |              📐 **Precisión**              |
-| :----------------------------------------: | :----------------------------------------: |
-| Diseños adaptados a diferentes necesidades | Creación de piezas con medidas específicas |
-
-|              🧩 **Prototipos**              |              💡 **Creatividad**             |
-| :-----------------------------------------: | :-----------------------------------------: |
-| Permite probar diseños antes de fabricarlos | Convierte ideas digitales en objetos reales |
+|         🟦 **01 · PREPARACIÓN**         |            🟩 **02 · PROCESO**           |           🟥 **03 · RESULTADO**           |
+| :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
+| <img src="IMAGENES/12.jpg" width="220"> | <img src="IMAGENES/123.jpg" width="220"> | <img src="IMAGENES/1234.jpg" width="220"> |
+|        💻 Preparación del diseño        |         🖨️ Impresión en proceso         |             ✨ Pieza terminada             |
 
 </div>
 
@@ -101,11 +77,13 @@ También comprendimos la importancia de configurar correctamente la impresora y 
 
 <div align="center">
 
-## 🚀 CONCLUSIÓN
+# 🚀 CONCLUSIÓN
 
-**La impresión 3D nos permite combinar tecnología, diseño y creatividad para convertir nuestras ideas en objetos reales.**
+**La impresión 3D combina tecnología, diseño y creatividad para convertir nuestras ideas en objetos reales.**
 
-### 🖨️✨ ¡Diseña, imprime y crea!
+<br>
+
+🖨️ **DISEÑA**   →   ⚙️ **PREPARA**   →   🎨 **IMPRIME**   →   ✨ **CREA**
 
 </div>
 
