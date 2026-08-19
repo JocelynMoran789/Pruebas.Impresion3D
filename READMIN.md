@@ -94,8 +94,6 @@ La impresión 3D puede utilizarse para crear:
 
 <div align="center">
 
-# 🚀 CONCLUSIÓN
-
 La **impresión 3D** combina tecnología, diseño y creatividad para convertir ideas digitales en objetos reales.
 
 Nuestra práctica nos permitió conocer el proceso de fabricación y comprender cómo esta tecnología puede utilizarse para **crear, experimentar y desarrollar diferentes proyectos**.
